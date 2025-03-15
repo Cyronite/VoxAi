@@ -24,8 +24,8 @@ Follow these steps to get your own copy of Vox up and running on your local mach
 ### Prerequisites
 
 Ensure you have the following installed on your machine:
--**OpenAI API Key**
--**Pourcoupine API Key**
+- **OpenAI API Key**
+- **Pourcoupine API Key**
 - **Node.js**: [Download and install Node.js](https://nodejs.org/)
 - **Git**: [Download and install Git](https://git-scm.com/)
 
