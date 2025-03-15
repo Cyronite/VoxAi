@@ -1,0 +1,5 @@
+body {
+  background-color: rgba(0, 0, 0, 0.5); /* White background with 50% opacity */
+  margin: 0;
+  overflow: hidden;
+}
